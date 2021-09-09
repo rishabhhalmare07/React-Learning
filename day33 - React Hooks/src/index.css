@@ -1,0 +1,44 @@
+h1{
+  position: absolute;
+  top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   font-size: 80px;
+    border-radius: 12px;
+    padding-bottom: 120px; 
+}
+
+button
+{
+  background-color: #73f042;
+  margin-top: 100px;
+  border: 8px;
+  border-radius: 12px;
+  font-size:xx-large ;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  outline: none;
+  color: white;
+  padding: 20px;
+}
+button1
+{
+
+  background-color: #f08842;
+  margin-top: 100px;
+  border: 8px;
+  border-radius: 12px;
+  font-size:xx-large ;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  transform: translate(155%, 335%);
+  text-decoration: none;
+  outline: none;
+  color: white;
+  padding: 20px;
+
+}
